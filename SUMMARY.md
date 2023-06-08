@@ -2,11 +2,16 @@
 
 * [Installation](README.md)
 
-## Api
-
-* [Notification](api/notification.md)
-* [Placeholder](api/placeholder.md)
-
 ## Modules
 
-* [Page 2](modules/page-2.md)
+* [Chat Module](modules/chat-module.md)
+* [Tablist Module](modules/tablist-module.md)
+* [Command Module](modules/command-module.md)
+
+## Api
+
+* [Application](api/application.md)
+* [Commands](api/commands.md)
+* [Text](api/text.md)
+* [Notification](api/notification.md)
+* [Placeholder](api/placeholder.md)
